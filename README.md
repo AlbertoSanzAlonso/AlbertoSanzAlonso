@@ -33,6 +33,6 @@ Hi there! 👋 I’m Alberto, a **Full Stack Developer** passionate about buildi
 ---
 
 ## 📫 Let’s Connect
-- [📧 Email](mailto:yourname@example.com)  
-- [💼 LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [🌐 Portfolio](https://yourportfolio.com)  
+- [📧 Email](mailto:albertosanzdev@gmail.com)  
+- [💼 LinkedIn](https://www.linkedin.com/in/alberto-sanz-dev/)  
+- [🌐 Portfolio](https://albertosanz.dev)  
