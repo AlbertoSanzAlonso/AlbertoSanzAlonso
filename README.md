@@ -21,6 +21,13 @@ My expertise lies in **Python, Django, databases, and Large Language Model (LLM)
 - **Database Management** – MySQL, SQLite; structured data and optimization.  
 - **LLM Engineering** – Building and integrating AI/LLM-based solutions.  
 
+
+### ⚙️ DevOps
+- **CI/CD Pipelines** – GitHub Actions, Docker, deployment automation.  
+- **Containerization & Virtualization** – Docker, WSL, VirtualBox.  
+- **Cloud & Hosting** – Deployment and maintenance of production applications.  
+- **Monitoring & Logging** – Ensuring reliability and performance of backend systems.  
+
 ---
 
 ## 🚀 About Me
