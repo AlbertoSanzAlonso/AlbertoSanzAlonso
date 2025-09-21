@@ -33,7 +33,7 @@ My expertise lies in **Python, Django, databases, and Large Language Model (LLM)
 
 ## 📫 Let’s Connect
 - 📧 **Email:** [albertosanzdev@gmail.com](mailto:albertosanzdev@gmail.com)  
-- 💼 **LinkedIn:** [alberto-sanz-dev](https://www.linkedin.com/in/alberto-sanz-dev/))  
+- 💼 **LinkedIn:** [alberto-sanz-dev](https://www.linkedin.com/in/alberto-sanz-dev/) 
 - 🌐 **Portfolio:** [albertosanz.dev](https://albertosanz.dev)  
 
 
